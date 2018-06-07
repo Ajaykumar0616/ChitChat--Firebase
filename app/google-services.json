@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "721264649551",
+    "firebase_url": "https://chitchat-6b351.firebaseio.com",
+    "project_id": "chitchat-6b351",
+    "storage_bucket": "chitchat-6b351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721264649551:android:bb54de914b48c1a9",
+        "android_client_info": {
+          "package_name": "org.terna.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721264649551-rb88ipg7smmusv3h8rq53n6l0kptdgpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.terna.chitchat",
+            "certificate_hash": "b123b7a6851311530b5dcf5b11ba798404a4a998"
+          }
+        },
+        {
+          "client_id": "721264649551-vqitbbh4t92blqrku885vdpen0cmdvg6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "721264649551-vqitbbh4t92blqrku885vdpen0cmdvg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVWL2u2JpHMW2DWwfmM_lQdsh4DCUMNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721264649551-vqitbbh4t92blqrku885vdpen0cmdvg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
